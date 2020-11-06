@@ -16,6 +16,6 @@ Nuestro proyecto busca resolver la problemática de las mascotas; perros y gatos
 * link
 
 ## Enlace a la plantilla de Bootstrap
-* link
+https://www.creative-tim.com/product/material-kit
 
  
