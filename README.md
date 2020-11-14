@@ -13,9 +13,9 @@ Nuestro proyecto busca resolver la problemática de las mascotas; perros y gatos
 
 ## Enlace al diseño del sitio web
 
-* link
+https://yiamrodriguez.wixsite.com/mysite
 
 ## Enlace a la plantilla de Bootstrap
-* link
+https://www.creative-tim.com/product/material-kit
 
  
