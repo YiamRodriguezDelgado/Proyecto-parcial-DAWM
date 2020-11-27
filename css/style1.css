@@ -68,18 +68,49 @@ body{
   display: inline-block;
   width: 50px;
   height: 50px;
-  margin: 0 10px;
   background-size: 50px 50px;
+  
 }
 
 
 .social-link.facebook {
   background-image: url('../images/facebook.svg');
   background-color: #0a56a3c5;
+  border-radius: 50px 50px 50px 50px;
+
 }
+
+.social-link.facebook:hover{
+    opacity: 0.7;
+}
+
 
 .social-link.instagram {
   background-image: url('../images/instagram.svg');
   background-color: #e20a0ac5;
-}
+  border-radius: 50px 50px 50px 50px;
 
+}
+.social-link.instagram:hover{
+  opacity: 0.7;
+}
+  
+
+.fa {
+  font-size: 50px;
+  width: 50px;
+  text-decoration: none;
+  padding: 2px ;
+  
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-whatsapp {
+  background-color: #25d366;
+  color: white;
+  height: 50px;
+  width: 50px;
+  border-radius: 40px 40px 40px 2px;
+  
+}
