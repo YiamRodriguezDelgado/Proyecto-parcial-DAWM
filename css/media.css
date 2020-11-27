@@ -1,0 +1,13 @@
+/*
+@media (max-width: 480px){
+  width:98%;font-family:Verdana;font-size:16px;
+}
+*/
+@media only screen 
+and (min-width: 360px)
+and (orientation: portrait)
+and (-webkit-min-device-pixel-ratio: 3.0) {
+  * {
+    background-color: white;
+  }
+}
