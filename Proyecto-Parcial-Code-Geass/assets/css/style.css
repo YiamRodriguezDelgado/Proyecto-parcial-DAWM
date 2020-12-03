@@ -1,8 +1,31 @@
-/*.header-filter{
-  background-image: url(./assets/img/city.png); 
-}
-.page-header{
-  background-image: url(./assets/img/gatos.png); 
+.logo-image{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
-/*page-header header-filter clear-filter purple-filter
+.logo{
+  background-image: url("../../images/faviconGPA1.png");
+  width: 200px; 
+  height: 200px;
+  background-repeat: no-repeat;
+  transition: transform .5s;
+}
+
+.logo:hover{
+  -webkit-transform: scale(1.5);
+  transform: scale(1.3);
+}
+
+.gpa{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.blue-filter:after {
+  background: rgba(91, 178, 212, 0.562);
+  background: linear-gradient(45deg, rgba(91, 178, 212, 0.562) 0%, rgba(46, 111, 185, 0.45) 100%);
+  background: -moz-linear-gradient(135deg, rgba(91, 178, 212, 0.562) 0%, rgba(46, 111, 185, 0.45) 100%);
+  background: -webkit-linear-gradient(135deg, rgba(91, 178, 212, 0.562) 0%, rgba(46, 111, 185, 0.45) 100%);
+}
